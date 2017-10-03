@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TodoappFrantz</string>
+    <string name="Add">Add</string>
+    <string name="Add_item">Add a new item___</string>
+</resources>
